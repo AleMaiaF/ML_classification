@@ -1,2 +1,2 @@
-# foIAge
-Banco de dados para o TCC
+# ML Classification
+Implementation of Resnet-RS for training, validation and testing
