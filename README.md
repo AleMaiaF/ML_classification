@@ -16,7 +16,7 @@ The Resnet-RS models from: https://github.com/nachiket273/pytorch_resnet_rs
 #### (Those same values were used both for binary and multiclass classification)
 
 * **Number of folds (k)**: 10
-* **Batch size**: 51
+* **Batch size**: 52
 * **Dropout rate**: 0.25
 * **Loss function**: CrossEntropyLoss()
 
